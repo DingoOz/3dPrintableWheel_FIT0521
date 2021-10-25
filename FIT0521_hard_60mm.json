@@ -1,6 +1,6 @@
 {
     "parameterSets": {
-        "design default values": {
+        "FIT0521 7 Spoke Basic": {
             "$fn": "50",
             "baseFilletRadius": "0",
             "chamferOnly": "false",
